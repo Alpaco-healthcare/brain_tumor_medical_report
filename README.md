@@ -22,6 +22,7 @@ UNet: 뇌 MRI에서 종양 영역을 정확하게 분리
 SwinUnetR: 스윈트랜스포머 기반의 고도화된 U-Net 모델
 Gemma2-2B: 의료 관련 정보 추출을 위한 GPT 모델
 Llama3: 대규모 언어 모델로 의학적 질문에 대한 답변 생성
+
 ---
 
 ⚙️ Tech Stack
