@@ -44,10 +44,9 @@ Deep Learning Framework: PyTorch
 Web Framework: FastAPI
 
 Database:
+
 MySQL
-
 SQLite
-
 PostgreSQL
 
 Medical Imaging Tools: AAL, 3D Slicer
