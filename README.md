@@ -1,6 +1,7 @@
 # brain tumor medical report
 
 🧠 주제
+
 뇌종양 분석과 RAG를 활용한 자동 의학 소견 생성 시스템 구축
 
 목표:
